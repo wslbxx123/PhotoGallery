@@ -1,0 +1,4 @@
+D:\Workspace\PhotoGallery\test\PhotoGallery.Tests\obj\Debug\netcoreapp3.1\PhotoGallery.Tests.csprojAssemblyReference.cache
+D:\Workspace\PhotoGallery\test\PhotoGallery.Tests\obj\Debug\netcoreapp3.1\PhotoGallery.Tests.AssemblyInfoInputs.cache
+D:\Workspace\PhotoGallery\test\PhotoGallery.Tests\obj\Debug\netcoreapp3.1\PhotoGallery.Tests.AssemblyInfo.cs
+D:\Workspace\PhotoGallery\test\PhotoGallery.Tests\obj\Debug\netcoreapp3.1\PhotoGallery.Tests.csproj.CoreCompileInputs.cache

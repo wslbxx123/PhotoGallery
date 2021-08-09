@@ -1,0 +1,10 @@
+D:\Workspace\PhotoGallery\src\PhotoGallery\bin\Release\netcoreapp3.1\publish\PhotoGallery.dll
+D:\Workspace\PhotoGallery\src\PhotoGallery\bin\Release\netcoreapp3.1\publish\PhotoGallery.deps.json
+D:\Workspace\PhotoGallery\src\PhotoGallery\bin\Release\netcoreapp3.1\publish\PhotoGallery.runtimeconfig.json
+D:\Workspace\PhotoGallery\src\PhotoGallery\bin\Release\netcoreapp3.1\publish\PhotoGallery.pdb
+D:\Workspace\PhotoGallery\src\PhotoGallery\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.APIGatewayEvents.dll
+D:\Workspace\PhotoGallery\src\PhotoGallery\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+D:\Workspace\PhotoGallery\src\PhotoGallery\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Workspace\PhotoGallery\src\PhotoGallery\bin\Release\netcoreapp3.1\publish\AWSSDK.Core.dll
+D:\Workspace\PhotoGallery\src\PhotoGallery\bin\Release\netcoreapp3.1\publish\AWSSDK.DynamoDBv2.dll
+D:\Workspace\PhotoGallery\src\PhotoGallery\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
